@@ -35,39 +35,22 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/ 212224220047
-i) module funct1(a,b,c,d,f1);
-input a,b,c,d;
-output f1;
-assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
-endmodule
-ii) module funct2(w,x,y,z,f2);
-input w,x,y,z;
-output f2;
-assign f2=((~y&z)|( w &y )|(x & y));
-endmodul
+Developed by: KEERTHANA C
+
+<img width="296" alt="image" src="https://github.com/user-attachments/assets/0033e7c3-676e-4336-9b54-2c80929966d9" />
+
+**RLT realization**
+
+<img width="238" alt="image" src="https://github.com/user-attachments/assets/a2e32a4c-cb30-49ac-bafe-530d532b32c8" />
+
+**OUTPUT**
+
+**RLT**
+
+**TIMIMG DIAGRAM**
+<img width="406" alt="image" src="https://github.com/user-attachments/assets/54f03da6-7385-457e-b99e-9b5b3df9af3b" />
 
 
-
-**RTL realization**
-<img width="490" alt="image" src="https://github.com/user-attachments/assets/a38f0143-c999-41bd-9311-fe19fffa78d0" />
-![Screenshot 2025-04-23 214914](https://github.com/user-attachments/assets/184f5d27-972f-40b1-a815-528e503d2850)
-
-**Truth Table**
-<img width="597" alt="image" src="https://github.com/user-attachments/assets/936f1c0f-0511-41e2-afd1-d7d9b1901788" />
-<img width="546" alt="image" src="https://github.com/user-attachments/assets/32b5dec0-6af4-4a7a-af23-a3de4132d076" />
-
-
-**Output:**
-<img width="638" alt="image" src="https://github.com/user-attachments/assets/3d531d52-35ed-4bf7-b48e-92e00bd7a366" />
-<img width="638" alt="image" src="https://github.com/user-attachments/assets/9e2ec01f-5a60-443f-846c-9e48325d4f8d" />
-
-
-**RTL**
-
-**Timing Diagram**
-<img width="632" alt="image" src="https://github.com/user-attachments/assets/84542428-d354-4d61-bb2a-b261baf5f684" />
-<img width="635" alt="image" src="https://github.com/user-attachments/assets/84006317-f5a7-4bb3-91c5-84bc570e083c" />
 
 **Result:**
 
