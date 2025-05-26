@@ -43,10 +43,10 @@ Register Number: 212224220047
 ![image](https://github.com/user-attachments/assets/1b6a5f76-da0e-42f5-a82c-23e756b8298f)
 
 
+**TRUTH TABLE**
+![image](https://github.com/user-attachments/assets/1367f1a4-9b40-4271-b67d-cd4f87360b05)
 
-**OUTPUT**
 
-**RLT**
 
 **TIMIMG DIAGRAM**
 ![image](https://github.com/user-attachments/assets/ec0ba4d1-6f0f-46a3-877c-7fa87e60da93)
